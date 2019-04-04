@@ -7,4 +7,6 @@ https://www.esri.com/arcgis-blog/products/arcgis-enterprise/analytics/introducin
 
 https://www.esri.com/arcgis-blog/?post_type=blog&p=475292
 
+https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/webhooks-dev-summit-2019/
+
 
